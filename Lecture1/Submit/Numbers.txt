@@ -1,0 +1,13 @@
+"C:\Program Files\Java\jdk-12\bin\java.exe" "-javaagent:D:\IntelliJ IDEA Community Edition 2019.1\lib\idea_rt.jar=55112:D:\IntelliJ IDEA Community Edition 2019.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\sujan\IdeaProjects\Hello\out\production\Hello Numbers
+0
+1
+2
+3
+4
+
+Process finished with exit code 0
+
+// #プログラムの動作
+
+for分でi を1から4 ( <5 ) までイテレートし、毎回iの値を画面に出力。
+
