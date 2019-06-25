@@ -1,0 +1,5 @@
+Boeing787とSwallowのインスタンスをFlyingObjectとして宣言しているためFlyingObjectの中に定義されているflyメソッドしか参照
+することができない。
+このエラーを解決するにはsPlaneとaBirdを下記の通りに宣言すればいい。
+Boeing787 aPlane = new Boeing787();
+Swallow aBird = new Swallow();

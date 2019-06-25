@@ -1,4 +1,4 @@
-public class Boeing787 extends Plane implements FlyingObject {
+public class  Swallow extends Bird implements FlyingObject {
     public static void main(String[] args) {
 
     }
