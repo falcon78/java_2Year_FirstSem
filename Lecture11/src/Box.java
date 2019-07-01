@@ -1,11 +1,7 @@
 public class Box implements Decoratable {
   private String str;
 
-  public static void main(String[] args) {
-
-  }
-
-  public Box(String str) {
+  Box(String str) {
     this.str = str;
   }
 

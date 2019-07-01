@@ -3,7 +3,7 @@ public class Star implements Decoratable {
   public static void main(String[] args){
 
   }
-  public Star (String str){
+  Star(String str){
    this.str = str;
   }
   public void decorate (){
