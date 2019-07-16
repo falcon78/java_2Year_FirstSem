@@ -7,7 +7,8 @@ public class FreeStyle implements Decoratable{
   }
 
   public void decorate (){
-   System.out.print("\n\n" + " _._     _,-\'\"\"`-._ \n" +
+   System.out.print("\n\n" +
+           " _._     _,-\'\"\"`-._ \n" +
            "(,-.`._,'(       |\\`-/| \n" +
            "    `-.-' \\ )-`( , o o) " +  "     " + message + "\n" +
            "          `-    \\`_`\"'- \n" +
